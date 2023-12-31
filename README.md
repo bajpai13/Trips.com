@@ -1,6 +1,5 @@
 # Trips.com
 
-## Sneak-Flex
 
 This project is a Travel Website purely made from Bootstrap.
 
